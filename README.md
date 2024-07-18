@@ -35,3 +35,12 @@ https://documenter.getpostman.com/view/36588127/2sA3kSn3Lj
 ## Screenshot
 
 ![alt text](image.png)
+
+## Installation
+
+To run this app location follow the below steps.
+
+- Clone this repository
+- Install dependencies using npm install
+- Start the development server with npm start
+- Using postman test the API endpoints(if you face any issues accessing the Render deployment URL then you can use "http://localhost:5001/" instead of render deployment URL)
